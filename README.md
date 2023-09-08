@@ -1,5 +1,7 @@
 # V1.3-XRP-3D-Printing-Files
-These are the latest printable files for the XRP robot, they may be read into any slicer and prepared for printing.  We recommend .2mm layer height, 5% fill, two outer layers, three top and bottom layers.  Grid fill pattern is preferred, no brim (unless you need it).
+These are the latest printable files for the XRP robot, they may be read into any slicer and prepared for printing. Solidworks CAD files are available by request only at this time.
+
+For printing we recommend .2mm layer height, 5% fill, two outer layers, three top and bottom layers.  Grid fill pattern is preferred, no brim (unless you need it).  Take note of the breakaway details, this governs the orientation of parts on the bed.
 
 The files have all been tested on a Bambu Labs P1P printer, but they can be printed on other machines as well.
 

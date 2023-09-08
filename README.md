@@ -1,10 +1,11 @@
-# V1.0-XRP-3D-Printing-Files
-These are the Summer 2023 files for 3D printing an XRP
+# V1.3-XRP-3D-Printing-Files
+These are the latest printable files for the XRP robot, they may be read into any slicer and prepared for printing.  We recommend .2mm layer height, 5% fill, two outer layers, three top and bottom layers.  Grid fill pattern is preferred, no brim (unless you need it).
 
-The files have all been tested on a Bambu Labs P1P printer, which is why they have the prefix "P1P" but they can be printed on other machines as well. 
-V 1.0 of the XRP kit ships with 7 different plastic parts:
+The files have all been tested on a Bambu Labs P1P printer, but they can be printed on other machines as well.
 
-(1) Single Part Frame: the main chassis for the robot. all the other part attach to this chassis. (includes support material that can be removed after the print)
+The XRP kit ships with 7 printed plastic parts:
+
+(1) Single Part Frame: the main chassis for the robot. all the other part attach to this chassis. (includes breakaway support material that can be removed after the print).  This should be printed upside-down, with the logo side against the bed.
 
 (1) Reflectance Sensor Bracket : a clip to attach the reflectance sensor to the frame. (includes support material that can be removed after the print)  
 
